@@ -1,7 +1,7 @@
 # Microprocessor-Simulator
 A multi-core microprocessor SIM (Simple Integer Machine) simulator
 
-The nSIM simulator allows the concurrent execution of ***n*** programs by initializing ***n*** cores.
+The nSIM simulator allows the concurrent execution of ***n*** programs by initializing ***n*** processor cores (Processor.h/cpp).
 
 ## Data Memory
 
